@@ -1,0 +1,8 @@
+print("Input Function")
+print("Input Function is used to take input from the user")
+print("By Default, Input Function Takes String Input from the user")
+print("int(input()) : This will take an integer input from the user")
+name=input("Enter Your Name : ")
+age=int(input("Enter Your Age : "))
+marks=float(input("Enter Your Marks : "))
+print(f"Name : {name}, Age : {age}, Marks : {marks}")
