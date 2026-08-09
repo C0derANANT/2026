@@ -5,7 +5,6 @@ marks3 = int(input("Enter Marks Of Third Subject : "))
 
 total = marks1 + marks2 + marks3
 percentage = total / 3
-
 print(f"Percentage : {percentage:.2f}%")
 
 if marks1 >= 33 and marks2 >= 33 and marks3 >= 33:
