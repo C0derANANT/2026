@@ -17,3 +17,4 @@ print(s3)
 s="Anant"
 print(s[0]) # A
 print(s[-1]) # t
+
