@@ -1,5 +1,4 @@
 # Square Pattern
-n=int(input("ENTER A NUMBER : "))
 
 # 1
 # n=int(input("ENTER A NUMBER : "))
