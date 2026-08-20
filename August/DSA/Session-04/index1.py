@@ -13,7 +13,5 @@ for i in range(n):
 # 4 5 6 
 # 7 8 9
 n=int(input("Enter A Number : "))
-for i in range(0,n):
-    for j in range(n*i+1,n*(i+1)+1):
-        print(j,end=' ')
-    print()
+for i in range(n):
+    print("* "*n)
