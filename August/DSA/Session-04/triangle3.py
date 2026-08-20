@@ -1,18 +1,18 @@
-# # 12
-# alphabets='ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-# n=int(input("Enter A Number : "))
-# for i in range(0,n):
-#     for j in range(i,-1,-1):
-#         print(alphabets[j], end=' ')
-#     print()
+# 12
+alphabets='ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+n=int(input("Enter A Number : "))
+for i in range(0,n):
+    for j in range(i,-1,-1):
+        print(alphabets[j], end=' ')
+    print()
 
 
-# # 13
-# n=int(input("Enter A Number : "))
-# x=n
-# for i in range(n):
-#     print("  "*(n-x) +f"{str(i+1)} "*x)
-#     x-=1
+# 13
+n=int(input("Enter A Number : "))
+x=n
+for i in range(n):
+    print("  "*(n-x) +f"{str(i+1)} "*x)
+    x-=1
 
 
 # 14
