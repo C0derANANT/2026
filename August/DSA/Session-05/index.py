@@ -45,3 +45,5 @@ n=int(input("Enter A Number : "))
 print("Prime numbers up to",n,"are:",allprime(n))
 print("Fibonacci series up to",n,"terms is:")
 fibonacci(n)
+
+# 
