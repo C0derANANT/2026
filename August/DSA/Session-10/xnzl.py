@@ -1,20 +1,20 @@
-# l1= [1, 2, 3, 2]
+# # l1= [1, 2, 3, 2]
 
-# for i in l1:
-#     if l1.count(i)>1:
-#         print("True")
-#         break
-# else:
-#     print("False")
+# # for i in l1:
+# #     if l1.count(i)>1:
+# #         print("True")
+# #         break
+# # else:
+# #     print("False")
 
-# l1 = [4, 2, 7, 1, 8]
+# # l1 = [4, 2, 7, 1, 8]
 
-# largest = l1[0]
-# for i in l1:
-#     if i > largest:
-#         largest = i
+# # largest = l1[0]
+# # for i in l1:
+# #     if i > largest:
+# #         largest = i
 
-# print(largest)
+# # print(largest)
 
 
 l1 = [4, 2, 7, 1, 8]
