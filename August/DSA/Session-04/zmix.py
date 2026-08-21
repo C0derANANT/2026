@@ -1,15 +1,16 @@
-# # Diamond Patterns 
-# # 15
-# n = int(input("Enter A Number : "))
-# print(" " * n + "*")
-# for i in range(1, n):
-#     print(" " * (n-i) + "*" + " " * (2*i-1) + "*")
-# for i in range(n-2, 0, -1):
-#     print(" " * (n-i) + "*" + " " * (2*i-1) + "*")
-# print(" " * n + "*")
+# Diamond Patterns 
+# 15
+n = int(input("Enter A Number : "))
+print(" " * n + "*")
+for i in range(1, n):
+    print(" " * (n-i) + "*" + " " * (2*i-1) + "*")
+for i in range(n-2, 0, -1):
+    print(" " * (n-i) + "*" + " " * (2*i-1) + "*")
+print(" " * n + "*")
 
 
-
+for i in range(n):
+    print(i)
 
 # Butterfly Pattern
 # 16

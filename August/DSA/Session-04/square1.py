@@ -17,3 +17,21 @@ for i in range(n):
     print("* "*n)
 
     # 
+
+# For n=5
+# Butterfly Pattern
+#  *                 *
+#  * *             * *
+#  * * *         * * *
+#  * * * *     * * * *
+#  * * * * * * * * * *
+#  * * * * * * * * * *
+#  * * * *     * * * *
+#  * * *         * * *
+#  * *             * *
+#  *                 *
+#
+# 
+# 
+# 
+# # What IS DSA : Data Structures And Algorithm
