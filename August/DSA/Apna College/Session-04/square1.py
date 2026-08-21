@@ -8,7 +8,8 @@ for i in range(n):
     print()
 
 # 2
-# For n=3
+
+# For n = 3
 # 1 2 3
 # 4 5 6 
 # 7 8 9
@@ -16,8 +17,8 @@ n=int(input("Enter A Number : "))
 for i in range(n):
     print("* "*n)
 
-    # 
 
+# 
 # For n=5
 # Butterfly Pattern
 #  *                 *
