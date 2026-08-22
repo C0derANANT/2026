@@ -16,7 +16,18 @@ for i in range(len(l1)):
 
 for arr in all_arrays:
     all_sum.append(sum(arr))
-
+                                                         
 # print(all_sum)
 print(f"\n\nThe Substring With Max Sum Is  : {all_arrays[all_sum.index(max(all_sum))]}\n\n")
+
+
+
+
+
+
+
+
+
+
+
 
