@@ -7,5 +7,6 @@ int main() {
     printf("Integer: %d\n", a);
     printf("String: %s\n", name);
     printf("Float: %.2f\n", decimal);
+    printf("Integer: %d\nFloat: %.2f\n",a,decimal);
     return 0;
 }
