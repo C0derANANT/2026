@@ -7,7 +7,7 @@ int main(){
     printf("Perimeter: %d units\n",side*4);           // Perimeter OF A Square
     return 0;
 }
- 
+
 // --------------x--------------x--------------x--------------x--------------x------
 
 // #include<stdio.h>
