@@ -15,7 +15,7 @@ import random
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 
-WIDTH, HEIGHT, FPS, DURATION = 720, 1280, 15, 35
+WIDTH, HEIGHT, FPS, DURATION = 720, 1280, 15, 38
 ROOT = Path(__file__).resolve().parents[1]
 FRAMES = ROOT / "build" / "pair-reel-frames"
 FONT_BOLD = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"
