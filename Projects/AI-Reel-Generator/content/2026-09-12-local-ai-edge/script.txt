@@ -1,0 +1,9 @@
+The biggest AI shift is not a new chatbot. It is where AI runs.
+
+Nvidia is making it easier for capable agents to work on your own RTX PC: faster, more privately, and even across computers at home.
+
+For computer engineers, that changes the skill set. Don’t only learn prompts. Learn local models, GPUs, optimisation, privacy, and how to verify an agent’s work.
+
+The next wave is not just AI in the cloud. It is AI systems built around us.
+
+Follow anant explores for AI and engineering without the hype.

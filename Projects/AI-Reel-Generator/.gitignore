@@ -1,0 +1,22 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated media and local tooling are intentionally not versioned.
+build/
+outputs/
+work/
+node_modules/
+npm-cache/
+swift-module-cache/
+
+# Keep only source assets and lightweight docs in Git.
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
