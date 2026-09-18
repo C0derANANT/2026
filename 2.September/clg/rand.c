@@ -4,11 +4,12 @@ int main(){
     printf("Enter the number of bodies: ");
     scanf("%d", &body_count);
     if(body_count==0){
-        printf("Sanskari");
+        printf("Sanskari\n");
     }else if(body_count==1){
-        printf("Managable");
+        printf("Managable\n");
     }else{
-        printf("Randi");
+        printf("Randi\n");
     }
     return 0;
 }
+// Brazil Body Count 0

@@ -1,5 +1,6 @@
 // Simple Interest Calculation Program in C
 #include <stdio.h>
+#include <stdbool.h>
 int main(){
     float principal;
     printf("Enter The Principal Amount : ");

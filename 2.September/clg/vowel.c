@@ -1,6 +1,6 @@
 #include<stdio.h>
-// #include <string.h>
-#include <ctype.h>
+#include <string.h>
+
 int main(){
     char ch;
     printf("Enter A Character : ");
@@ -12,4 +12,4 @@ int main(){
         printf("The Character Is Not A Vowel\n");
     }
     return 0;
-}
+}\
