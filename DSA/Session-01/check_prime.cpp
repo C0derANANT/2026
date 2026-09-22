@@ -14,5 +14,6 @@ int main(){
         }
     }
     printf("%d: Prime\n", n);
+    printf("Thank You For Using This Program\n");
     return 0;
 }
