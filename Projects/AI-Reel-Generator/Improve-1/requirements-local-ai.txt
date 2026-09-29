@@ -1,0 +1,6 @@
+# Install these on Python 3.10 or 3.11 for the full local AI stack.
+# They are intentionally separate because model runtimes are large and often do
+# not publish wheels for newest Python releases immediately.
+openai-whisper
+TTS
+
