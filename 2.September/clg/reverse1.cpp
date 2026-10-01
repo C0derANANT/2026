@@ -1,18 +1,35 @@
 #include<stdio.h>
+#include<math.h>
 int main(){
-    int n,rev=0,original;
-    printf("Enter A Number: ");
+    int n,digit,sum,temp,rem,i=0,fsum=0;
+    printf("Enter Any Number: ");
     scanf("%d",&n);
-    original=n;
-    if(n>0)
-    while(n>0){
-        rev=rev*10+n%10;
-        n=n/10;
+    temp = n;
+    int count,temp2;
+    temp2 = n;
+    while(1){
+        if(temp2 == 0){
+            break;
+        }
+        temp2 = temp2 / 10;
+        i++;
     }
-    printf("%d\n",rev);
-    if(original==rev){
-        printf("Palindrome");
-    }else{
-        printf("NOT A Palindrome");
+
+    while(1){
+        if(temp==0){
+            break;
+        }
+        rem = temp%10;
+        sum = (pow(rem,i));
+        fsum +=sum;
+        temp = temp / 10;
+        
     }
+    if(fsum == n){
+        printf("The input number %d = %d is amstrong number",fsum,n);
+    }
+    else{
+        printf("the input number %d != %d is not amstrong number",fsum,n);
+    }
+    return 0;
 }
