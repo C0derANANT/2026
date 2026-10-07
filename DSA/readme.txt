@@ -1,2 +1,3 @@
-x----x----x----x----x----September----x----x----x----x----x
-21-September----FlowCharts & Psuedocode
+x----x----x----x----x----October----x----x----x----x----x
+7-October---- Hands on C++
+8-October---- 
