@@ -1,6 +1,5 @@
 // Armstrong Number
 #include <stdio.h>
-
 int main() {
     int n, temp, digit, count = 0, sum = 0;
 
