@@ -12,4 +12,8 @@ for items in l1:
     print(" "*(n - len(items)), end="")
     print(items)
 
-# print(l1)
+# # print(l1)
+
+
+# batch size zyada hoga toh gpu zyada use hoga aur memory bhi zyada use hogi. Agar batch size chhota hoga toh gpu kam use hoga aur memory bhi kam use hogi.
+# toh better konsa h bcoz ek mein load zyaada hoga aur dusre mein load kam hoga.but dusre me time km hofa

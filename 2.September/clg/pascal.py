@@ -11,3 +11,5 @@ for i in range(1, n):
 print(l1)
 for item in l1:
     print(item)
+
+l1.sort()
