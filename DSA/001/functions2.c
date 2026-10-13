@@ -23,10 +23,10 @@ int prime(int n){
 
 // }
 
-int main(){
-    printf("\n----- Main Function -----\n");
-    int n;
-    printf("Enter A Number : ");
-    scanf("%d",&n);
-    prime(n);
-}
+// int main(){
+//     printf("\n----- Main Function -----\n");
+//     int n;
+//     printf("Enter A Number : ");
+//     scanf("%d",&n);
+//     prime(n);
+// }
